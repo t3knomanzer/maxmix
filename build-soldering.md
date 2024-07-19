@@ -30,7 +30,7 @@ sidebar:
 # Soldering
 
 Soldering has been kept down to a minimum but some is required.  
-If you are unable to solder, you can try alternative methods such as Conductive glue ([AliExpress][part-conductive-glue-ae], [Amazon][part-conductive-glue-am])
+If you are unable to solder, you can try alternative methods such as conductive glue: [AliExpress][part-conductive-glue-ae], [Amazon][part-conductive-glue-am]
 
 ## MCU
 

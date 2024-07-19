@@ -27,23 +27,23 @@ sidebar:
 [part-power-bus-ae]:https://www.aliexpress.com/item/33007031908.html
 [part-display-ae]:https://www.aliexpress.com/item/32861875681.html
 [part-rotary-ae]:https://www.aliexpress.com/item/32790788377.html
-[part-m2x5mm-ae]:https://www.aliexpress.com/item/32975410255.html
+[part-m2x5mm-ae]:https://www.aliexpress.us/item/3256807017181013.html
 [part-m2x10mm-ae]:https://www.aliexpress.us/item/2251832856776732.html
-[part-wires-ae]:https://www.aliexpress.com/item/33007698478.html
+[part-wires-ae]:https://www.aliexpress.us/item/3256806696233563.html
 [part-bumpers-ae]:https://www.aliexpress.com/item/32289191938.html
 [part-led-ring-ae]:https://www.aliexpress.com/item/32758176722.html
 [part-conductive-glue-ae]:https://www.aliexpress.com/item/4000805311240.html
 
 [part-power-bus-td]:https://www.tindie.com/products/maxmixproject/power-bus/
-[part-display-am]:https://www.amazon.com/gp/product/B079BN2J8V/
-[part-mcu-am]:https://www.amazon.com/gp/product/B0713XK923/
-[part-rotary-am]:https://www.amazon.com/gp/product/B06XQTHDRR/
-[part-m2x5mm-am]:https://www.amazon.com/gp/product/B076ZV44GN/
-[part-m2x10mm-am]:https://www.amazon.com/gp/product/B01LJRPEXK/
-[part-wires-am]:https://www.amazon.com/gp/product/B077N58HFK/
-[part-bumpers-am]:https://www.amazon.com/gp/product/B073ZKDMM3/
-[part-led-ring-am]:https://www.amazon.com/gp/product/B081B9QWP6/
-[part-conductive-glue-am]:https://www.amazon.com/gp/product/B0992H9MQZ/
+[part-display-am]:https://www.amazon.com/dp/B079BN2J8V/
+[part-mcu-am]:https://www.amazon.com/dp/B0713XK923/
+[part-rotary-am]:https://www.amazon.com/dp/B06XQTHDRR/
+[part-m2x5mm-am]:https://www.amazon.com/dp/B076ZV44GN/
+[part-m2x10mm-am]:https://www.amazon.com/dp/B01LJRPEXK/
+[part-wires-am]:https://www.amazon.com/dp/B077N58HFK/
+[part-bumpers-am]:https://www.amazon.com/dp/B07G86DL1L
+[part-led-ring-am]:https://www.amazon.com/dp/B08PCPJSRF
+[part-conductive-glue-am]:https://www.amazon.com/dp/B0992H9MQZ/
 
 # Parts
 
@@ -84,8 +84,8 @@ Below are the rest of parts needed to complete the project.
 
 ### Soldering
 
-Soldering has been kept down to a minimum but some is required.
-If you are unable to solder, you can try alternative methods such as Conductive glue ([AliExpress][part-conductive-glue-ae], [Amazon][part-conductive-glue-am])
+Soldering has been kept down to a minimum but some is required.  
+If you are unable to solder, you can try alternative methods such as conductive glue: [AliExpress][part-conductive-glue-ae], [Amazon][part-conductive-glue-am]
 
 {% include gallery.html
   gallery="build/parts/hardware/"
