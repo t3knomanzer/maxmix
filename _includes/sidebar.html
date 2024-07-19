@@ -6,7 +6,7 @@
 
 
 {% for widget in site.data.[site.template].sidebar.[sidebar] %}
-  <div class="uk-margin-large-bottom">
+  <div class="uk-margin-large-bottom sticky">
     {% case widget.widget %}
 
        {% when 'tagged' %}
