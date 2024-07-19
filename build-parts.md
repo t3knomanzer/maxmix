@@ -36,7 +36,7 @@ sidebar:
 
 [part-power-bus-td]:https://www.tindie.com/products/maxmixproject/power-bus/
 [part-display-am]:https://www.amazon.com/dp/B079BN2J8V/
-[part-mcu-am]:https://www.amazon.com/dp/B0713XK923/
+[part-mcu-am]:https://www.amazon.com/dp/B09SG7D36R/
 [part-rotary-am]:https://www.amazon.com/dp/B06XQTHDRR/
 [part-m2x5mm-am]:https://www.amazon.com/dp/B076ZV44GN/
 [part-m2x10mm-am]:https://www.amazon.com/dp/B01LJRPEXK/
