@@ -24,11 +24,11 @@ sidebar:
     right:             build
 ---
 
-[part-conductive-glue]: https://www.aliexpress.com/item/4000805311240.html?spm=a2g0s.9042311.0.0.3c5d4c4dnGoHMw
+[part-conductive-glue]:https://www.aliexpress.com/item/4000805311240.html
 
 # Soldering
-Soldering has been kept down to a minimum but some is required.  
-If you are unable to solder, you can try alternative methods such as [conductive glue](part-conductive-glue).
+Soldering has been kept down to a minimum but some is required.
+If you are unable to solder, you can try alternative methods such as [conductive glue][part-conductive-glue].
 
 ## 3. MCU
 1. Locate the side that has pins D13 through VIN.
@@ -38,7 +38,7 @@ If you are unable to solder, you can try alternative methods such as [conductive
 6. Insert them in the MCU between pins D12 and D8.
 7. Solder them from below.
 
-{% include gallery.html 
+{% include gallery.html
   gallery="build/soldering/mcu/"
   grid="1-4"
   gutter="small"
@@ -53,7 +53,7 @@ If you are unable to solder, you can try alternative methods such as [conductive
 4. Tin the pcb connections of the LED ring labeled **DI**, **5V** and **GND**.
 5. Solder the wires to the pcb.
 
-{% include gallery.html 
+{% include gallery.html
   gallery="build/soldering/led-ring/"
   grid="1-4"
   gutter="small"
