@@ -32,16 +32,18 @@ sidebar:
 [part-wires-ae]:https://www.aliexpress.com/item/33007698478.html
 [part-bumpers-ae]:https://www.aliexpress.com/item/32289191938.html
 [part-led-ring-ae]:https://www.aliexpress.com/item/32758176722.html
+[part-conductive-glue-ae]:https://www.aliexpress.com/item/4000805311240.html
 
 [part-power-bus-td]:https://www.tindie.com/products/maxmixproject/power-bus/
-[part-display-am]:https://www.amazon.com/MakerFocus-Display-SSD1306-3-3V-5V-Arduino/dp/B079BN2J8V/
-[part-mcu-am]:https://www.amazon.com/ELEGOO-Arduino-ATmega328P-Without-Compatible/dp/B0713XK923
+[part-display-am]:https://www.amazon.com/gp/product/B079BN2J8V/
+[part-mcu-am]:https://www.amazon.com/gp/product/B0713XK923/
 [part-rotary-am]:https://www.amazon.com/gp/product/B06XQTHDRR/
 [part-m2x5mm-am]:https://www.amazon.com/gp/product/B076ZV44GN/
 [part-m2x10mm-am]:https://www.amazon.com/gp/product/B01LJRPEXK/
 [part-wires-am]:https://www.amazon.com/gp/product/B077N58HFK/
-[part-bumpers-am]:https://www.amazon.com/gp/product/B073ZKDMM3
+[part-bumpers-am]:https://www.amazon.com/gp/product/B073ZKDMM3/
 [part-led-ring-am]:https://www.amazon.com/gp/product/B081B9QWP6/
+[part-conductive-glue-am]:https://www.amazon.com/gp/product/B0992H9MQZ/
 
 # Parts
 
@@ -68,17 +70,22 @@ If you don't have a 3D printer, I recommend using a community printing service s
 Below are the rest of parts needed to complete the project.
 \* **Due to DOA reports on Arduinos ordered from AliExpress, we've decided to not provide a link.**
 
-|Part                                     |Count   |Ali-Express                 |Amazon (US)                            |
-|-----------------------------------------|--------|----------------------------|---------------------------------------|
-|M2 10mm Countersink screws               |4       |[Link][part-m2x10mm-ae]     |[Link][part-m2x10mm-am]                |
-|M2 5mm Screws                            |6       |[Link][part-m2x5mm-ae]      |[Link][part-m2x5mm-am]                 |
-|Silicon bumper 2x8mm                     |4       |[Link][part-bumpers-ae]     |[Link][part-bumpers-am]                |
-|Arduino Nano 328P CH340                  |1       |*                           |[Link][part-mcu-am]                    |
-|128x32 I2C OLED display                  |1       |[Link][part-display-ae]     |[Link][part-display-am]                |
-|Rotary encoder                           |1       |[Link][part-rotary-ae]      |[Link][part-rotary-am]                 |
-|Power bus                                |1       |[Link][part-power-bus-ae]   |[Link (Tindie)][part-power-bus-td]     |
-|10cm Female to female jumper wires       |11      |[Link][part-wires-ae]       |[Link][part-wires-am]                  |
-|WS2812 5050 LED Ring 8-bit (Optional)    |1       |[Link][part-led-ring-ae]    |[Link][part-led-ring-am]               |
+|Part                                     |Count   |AliExpress                     |Amazon (US)                        |
+|-----------------------------------------|--------|-------------------------------|-----------------------------------|
+|M2 10mm Countersink screws               |4       |[Link][part-m2x10mm-ae]        |[Link][part-m2x10mm-am]            |
+|M2 5mm Screws                            |6       |[Link][part-m2x5mm-ae]         |[Link][part-m2x5mm-am]             |
+|Silicon bumper 2x8mm                     |4       |[Link][part-bumpers-ae]        |[Link][part-bumpers-am]            |
+|Arduino Nano 328P CH340                  |1       |*                              |[Link][part-mcu-am]                |
+|128x32 I2C OLED display                  |1       |[Link][part-display-ae]        |[Link][part-display-am]            |
+|Rotary encoder                           |1       |[Link][part-rotary-ae]         |[Link][part-rotary-am]             |
+|Power bus                                |1       |[Link][part-power-bus-ae]      |[Link (Tindie)][part-power-bus-td] |
+|10cm Female to female jumper wires       |11      |[Link][part-wires-ae]          |[Link][part-wires-am]              |
+|WS2812 5050 LED Ring 8-bit (Optional)    |1       |[Link][part-led-ring-ae]       |[Link][part-led-ring-am]           |
+
+### Soldering
+
+Soldering has been kept down to a minimum but some is required.
+If you are unable to solder, you can try alternative methods such as Conductive glue ([AliExpress][part-conductive-glue-ae], [Amazon][part-conductive-glue-am])
 
 {% include gallery.html
   gallery="build/parts/hardware/"
