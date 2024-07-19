@@ -24,14 +24,13 @@ sidebar:
     right:            build
 ---
 
-[part-power-bus-ae]:https://www.aliexpress.com/item/33007031908.html?spm=a2g0s.9042311.0.0.5ea74c4dZSeJCA
-[part-display-ae]:https://www.aliexpress.com/item/32861875681.html?spm=a2g0o.productlist.0.0.40103137cSuJWL&algo_pvid=72a2cf65-9a42-4ea4-acc1-12d0c207044d&algo_expid=72a2cf65-9a42-4ea4-acc1-12d0c207044d-3&btsid=0ab6d59515893349825181599eeff5&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_
-[part-mcu-ae]:https://www.aliexpress.com/item/32856118319.html?spm=a2g0s.9042311.0.0.5ea74c4dZSeJCA
-[part-rotary-ae]:https://www.aliexpress.com/item/32790788377.html?spm=a2g0s.9042311.0.0.3f0b4c4dAi0mJO
-[part-m2x5mm-ae]:https://www.aliexpress.com/item/32975410255.html?spm=a2g0o.detail.0.0.496572dbSutw9Y&gps-id=pcDetailCartBuyAlsoBuy&scm=1007.12908.131176.0&scm_id=1007.12908.131176.0&scm-url=1007.12908.131176.0&pvid=ff23c9a7-d73c-454f-a4c6-322a121bd814&_t=gps-id:pcDetailCartBuyAlsoBuy,scm-url:1007.12908.131176.0,pvid:ff23c9a7-d73c-454f-a4c6-322a121bd814,tpp_buckets:668%230%23131923%2319_668%23808%235965%23251_668%23888%233325%2311_668%232846%238111%23466_668%232717%237566%23817
-[part-m2x10mm-ae]:https://www.aliexpress.com/item/33043091484.html?spm=a2g0o.productlist.0.0.767f4a08gAx7Oc&s=p&ad_pvid=2020051218463417005721656175370016165454_11&algo_pvid=9e1a1b86-9322-441f-b087-ef567c376f63&algo_expid=9e1a1b86-9322-441f-b087-ef567c376f63-10&btsid=0ab6d69f15893343947923488e699c&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_
-[part-wires-ae]:https://www.aliexpress.com/item/33007698478.html?spm=a2g0o.productlist.0.0.44b248d7kcLfV9&algo_pvid=b0a90a38-c903-4828-9cf3-0073b86684ae&algo_expid=b0a90a38-c903-4828-9cf3-0073b86684ae-6&btsid=0ab6d67915893355772902177e0543&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_
-[part-bumpers-ae]:https://www.aliexpress.com/item/32289191938.html?spm=a2g0o.productlist.0.0.20513e1cJD6rV0&s=p&ad_pvid=2020051219254812188693811548200016292927_1&algo_pvid=f58a6173-19a8-4de7-9dbb-819984df4870&algo_expid=f58a6173-19a8-4de7-9dbb-819984df4870-0&btsid=0ab50f6115893367485698071ebd11&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_
+[part-power-bus-ae]:https://www.aliexpress.com/item/33007031908.html
+[part-display-ae]:https://www.aliexpress.com/item/32861875681.html
+[part-rotary-ae]:https://www.aliexpress.com/item/32790788377.html
+[part-m2x5mm-ae]:https://www.aliexpress.com/item/32975410255.html
+[part-m2x10mm-ae]:https://www.aliexpress.us/item/2251832856776732.html
+[part-wires-ae]:https://www.aliexpress.com/item/33007698478.html
+[part-bumpers-ae]:https://www.aliexpress.com/item/32289191938.html
 [part-led-ring-ae]:https://www.aliexpress.com/item/32758176722.html
 
 [part-power-bus-td]:https://www.tindie.com/products/maxmixproject/power-bus/
@@ -45,16 +44,18 @@ sidebar:
 [part-led-ring-am]:https://www.amazon.com/gp/product/B081B9QWP6/
 
 # Parts
-All parts for the maxmix controller can be found and purchased online.  
-Links to the parts are provided below but feel free to purchase them elsewhere.  
+
+All parts for the maxmix controller can be found and purchased online.
+Links to the parts are provided below but feel free to purchase them elsewhere.
 When looking for alternatives, just make sure the part specifications match to avoid any issues.
 
 ## 3D Print
+
 The enclosure for the controller is made of a couple of 3D printed parts and can be downloaded from [Prusaprinters.org](https://www.prusaprinters.org/prints/31336-maxmix).
 
 If you don't have a 3D printer, I recommend using a community printing service such as [Treatstock](https://www.treatstock.com/), it is the most cost effective method.
 
-{% include gallery.html 
+{% include gallery.html
   gallery="build/parts/enclosure/"
   grid="1-4"
   gutter="small"
@@ -63,7 +64,8 @@ If you don't have a 3D printer, I recommend using a community printing service s
 %}
 
 ## Hardware
-Below are the rest of parts needed to complete the project.  
+
+Below are the rest of parts needed to complete the project.
 \* **Due to DOA reports on Arduinos ordered from AliExpress, we've decided to not provide a link.**
 
 |Part                                     |Count   |Ali-Express                 |Amazon (US)                            |
@@ -78,7 +80,7 @@ Below are the rest of parts needed to complete the project.
 |10cm Female to female jumper wires       |11      |[Link][part-wires-ae]       |[Link][part-wires-am]                  |
 |WS2812 5050 LED Ring 8-bit (Optional)    |1       |[Link][part-led-ring-ae]    |[Link][part-led-ring-am]               |
 
-{% include gallery.html 
+{% include gallery.html
   gallery="build/parts/hardware/"
   grid="1-4"
   gutter="small"
@@ -86,8 +88,8 @@ Below are the rest of parts needed to complete the project.
   lightbox="true"
 %}
 
-
 ## Tools
+
 Here are the tools you are going to need.
 
 - Small philips screwdriver
@@ -97,7 +99,7 @@ Here are the tools you are going to need.
 - Wire stripper (Optional)
 - Third hand (Optional)
 
-{% include gallery.html 
+{% include gallery.html
   gallery="build/parts/tools/"
   grid="1-4"
   gutter="small"
