@@ -5411,7 +5411,7 @@
             },
             events: [ "scroll", "resize" ]
         } ]
-    };
+    }; 
     var sticky = {
         mixins: [ Class, Media ],
         props: {
