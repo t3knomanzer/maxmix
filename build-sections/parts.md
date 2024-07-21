@@ -22,7 +22,7 @@ If you don't have a 3D printer, I recommend using a community printing service s
 
 Below are the rest of parts needed to complete the project. \* **Due to DOA reports on Arduinos ordered from AliExpress, we've decided to not provide a link.**
 
-| Part                                  | Count | Ali-Express               | Amazon (US)                        |
+| Part                                  | Count | AliExpress                | Amazon (US)                        |
 | ------------------------------------- | ----- | ------------------------- | ---------------------------------- |
 | M2 10mm Countersink screws            | 4     | [Link][part-m2x10mm-ae]   | [Link][part-m2x10mm-am]            |
 | M2 5mm Screws                         | 6     | [Link][part-m2x5mm-ae]    | [Link][part-m2x5mm-am]             |
@@ -33,6 +33,11 @@ Below are the rest of parts needed to complete the project. \* **Due to DOA repo
 | Power bus                             | 1     | [Link][part-power-bus-ae] | [Link (Tindie)][part-power-bus-td] |
 | 10cm Female to female jumper wires    | 11    | [Link][part-wires-ae]     | [Link][part-wires-am]              |
 | WS2812 5050 LED Ring 8-bit (Optional) | 1     | [Link][part-led-ring-ae]  | [Link][part-led-ring-am]           |
+
+### Soldering
+
+Soldering has been kept down to a minimum but some is required.
+If you are unable to solder, you can try alternative methods such as conductive glue: [AliExpress][part-conductive-glue-ae], [Amazon][part-conductive-glue-am]
 
 {% include gallery.html
   gallery="build/parts/hardware/"
