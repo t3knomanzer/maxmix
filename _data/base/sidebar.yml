@@ -11,17 +11,17 @@ build:
     - title: Sections
       links:
         - title: Overview
-          url: /build/
+          url: /build/#overview
         - title: Parts
-          url: /build-parts/
+          url: /build/#parts
         - title: Soldering
-          url: /build-soldering/
+          url: /build/#soldering
         - title: Electronics
-          url: /build-electronics/
+          url: /build/#electronics
         - title: Wiring
-          url: /build-wiring/
+          url: /build/#wiring
         - title: Assembly
-          url: /build-assembly/
+          url: /build/#assembly
 
 install:
   - widget: navigation

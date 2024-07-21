@@ -167,6 +167,7 @@ defaults:
       section:              large
       sidebar: 
         right:              blog
+        sticky:             false
       comments:             # true
       share:                true
       related:              true
